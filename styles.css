@@ -2,7 +2,7 @@ body {
     background-image: url("airport.gif");
     font-family: Arial, sans-serif;
     margin: auto;
-    width: 640px; 
+    width: auto; 
     padding: 50px;
     background-size: cover;
     background-position: center;
