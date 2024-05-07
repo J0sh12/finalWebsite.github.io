@@ -1,13 +1,19 @@
 body {
     background-image: url("airport.gif");
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
     background-size: cover;
     background-position: center;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    text-align: center;
+}
+
+*{
+   text-align: center;
 }
 
 .container {
